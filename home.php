@@ -5,7 +5,7 @@
 </head>
 <style>
 body {
-  background-image: url('hello.jpg');
+  background-image: url('hello2.jpg');
   color:white;
   background-repeat: no-repeat;
   background-size: cover;
